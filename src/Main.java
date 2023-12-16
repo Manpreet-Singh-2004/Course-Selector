@@ -66,6 +66,8 @@ static class CourseInformation {
         }
 
     }
+//    Hehe Boi UwU (👉ﾟヮﾟ)👉NOICE 👈(ﾟヮﾟ👈)
+
 //    static void callDataMethod() {
 //    int i;
 //    for (i = 1; i<= 25; i++)
