@@ -68,6 +68,8 @@ public class Menu {
 
         System.out.print("Enter Year: ");
         String year = sc.nextLine();
+//        Filters
+        System.out.println("Enter Course Prefix (CIS, CMNS, COMP, etc): ");
         boolean found = false;
 
         if (year.length() != 1 || !Character.isDigit(year.charAt(0))) {
