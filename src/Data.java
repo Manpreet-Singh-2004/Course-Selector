@@ -1099,7 +1099,7 @@ public class Data {
         CourseCoreq.add("None");
         CoursePreandCo.add("None");
         CourseDetails.add("Offers students the chance to explore elements of journalistic practice or particular types of beat reporting. Topics might include data journalism, broadcast journalism, photojournalism, reporting diversity, political reporting, or advocacy journalism.\n");
-        AdditionalNotes.add("This course will be offered under different letter designations (e.g. C-Z) representing different topics. This course may be repeated for credit provided the letter designation differs.\n");
+        AdditionalNotes.add("This course will be offered1 under different letter designations (e.g. C-Z) representing different topics. This course may be repeated for credit provided the letter designation differs.\n");
     }
 //    public static void d100()
 //    {
