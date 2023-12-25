@@ -1101,27 +1101,496 @@ public class Data {
         CourseDetails.add("Offers students the chance to explore elements of journalistic practice or particular types of beat reporting. Topics might include data journalism, broadcast journalism, photojournalism, reporting diversity, political reporting, or advocacy journalism.\n");
         AdditionalNotes.add("This course will be offered1 under different letter designations (e.g. C-Z) representing different topics. This course may be repeated for credit provided the letter designation differs.\n");
     }
-//    public static void d100()
-//    {
-//        CourseID.add("");
-//        CourseName.add("");
-//        CourseCredit.add("");
-//        CoursePrereq.add("");
-//        CourseCoreq.add("");
-//        CoursePreandCo.add("");
-//        CourseDetails.add("");
-//        AdditionalNotes.add("");
-//    }
-//    public static void d101()
-//    {
-//        CourseID.add("");
-//        CourseName.add("");
-//        CourseCredit.add("");
-//        CoursePrereq.add("");
-//        CourseCoreq.add("");
-//        CoursePreandCo.add("");
-//        CourseDetails.add("");
-//        AdditionalNotes.add("");
-//    }
+//    CMNS Finished
+//    Macs Started
+    public static void d100()
+    {
+        CourseID.add("MACS 110");
+        CourseName.add("Introduction to Communication Studies");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("An exploration of foundational theories in media and communication studies on such topics as propaganda, debates over high and mass culture, violence in the media, and audience uses of the media.");
+        AdditionalNotes.add("None");
+    }
+    public static void d101()
+    {
+        CourseID.add("MACS 130");
+        CourseName.add("Introduction to Digital Media and Communications");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Students examine digital media and communications in all its forms, and the political, social, cultural, economic, legal, and geographic factors that shape them.\n");
+        AdditionalNotes.add("None");
+    }
+    public static void d102()
+    {
+        CourseID.add("MACS 201");
+        CourseName.add("Popular Music and Society");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Popular music is everywhere in our day-to-day lives, yet we seldom consider how it was made, what it means, and how it affects us. In this course, we’ll draw on different scholars’ ideas to reflect on the diverse social contexts in which people create and listen to popular music.");
+        AdditionalNotes.add("This course is offered as MACS 201 and MUSC 201. Students may take only one of these for credit.\n");
+    }
+    public static void d103()
+    {
+        CourseID.add("MACS 203");
+        CourseName.add("Literature and Film");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("Any two 100-level English courses numbered ENGL 105 or higher), or (B or better in any 100-level ENGL class numbered ENGL 105 or higher), or (one 100-level English course numbered ENGL 105 or higher and one of [MACS 110 or MAC 130]).");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Students will study literature in relation to film. Mutually illuminating analytical approaches to literature and film, and related vocabulary, will be explored, along with thematic and historical-contextual considerations.");
+        AdditionalNotes.add("Note: This course is offered as ENGL 203 and MACS 203. Students may take only one of these for credit.\n" +
+                "Note: This course will be offered under different letter designations (e.g. C-Z) representing different topics. This course may be repeated for credit provided the letter designation differs.\n");
+    }
+    public static void d104()
+    {
+        CourseID.add("MACS 206");
+        CourseName.add("Politics of Art Latin America");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("In this course, we examine Latin American artistic culture from the perspectives of the social sciences. Focuses may include art, architecture, literature, film, music, dance, folk art, and popular culture. The intent will be to relate these to the social context in which they are located. In particular, we will be interested in the ways in which artistic expression helps to legitimize or to challenge particular social orders.\n");
+        AdditionalNotes.add("This course is offered as LAS 206, ANTH 206, MACS 206, and SOC 206. Students may take only one of these for credit.\n");
+    }
+    public static void d105()
+    {
+        CourseID.add("MACS 210");
+        CourseName.add("History of Communication");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course focuses on the historical development of systems of communication, from ancient pictographs and oral traditions to the social networks of today. Focusing primarily on Western civilization, the course assesses how and why these systems arose, how their adoption affected existing technologies, and what their myriad social effects were. It shows that today’s optimistic and pessimistic assessments of new communication technologies have numerous precedents.\n");
+        AdditionalNotes.add("None");
+    }
+    public static void d106()
+    {
+        CourseID.add("MACS 212");
+        CourseName.add("Introduction to Media and Public Relations");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("One of the following: CMNS 125, CMNS 145, CMNS 175, or ENGL 105.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Students tailor messages to a specific target audience in today’s complex media environment, through analysis, creativity, and development of skills. This course examines the public relations history, environment, and process, as well as the increasingly diverse publics, channels, and tools used in the field.");
+        AdditionalNotes.add("This course is offered as CMNS 212 and MACS 212. Students may take only one of these for credit.\n");
+    }
+    public static void d107()
+    {
+        CourseID.add("MACS 215");
+        CourseName.add("Advertising as Social Communication");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course provides an interdisciplinary examination of the significance of advertising as a social message system in our consumer culture. The course presents a way of assessing the role that advertising plays in defining how we see ourselves, one another, and the world at large. It includes a brief history of advertising, but the emphasis is on current functions and styles of the global advertising business.\n");
+        AdditionalNotes.add("MACS 110 or 130 is recommended");
+    }
+    public static void d108()
+    {
+        CourseID.add("MACS 221");
+        CourseName.add("Media and Popular Cultures");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course provides an introduction to the field of cultural studies, particularly as it relates to contemporary popular culture. Writers in cultural studies take a critical look at the mass media and their audiences. How do media and audiences affect each other, and how does this relationship make for a better or a worse society?");
+        AdditionalNotes.add("None");
+    }
+    public static void d109()
+    {
+        CourseID.add("MACS 230");
+        CourseName.add("Cultural Industries in Canada");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Conglomerates produce and distribute most of the information and entertainment that we encounter in our day-to-day lives. Much of this mass culture is American in origin. Nevertheless, through public and private initiatives, Canadians over the decades have managed to create a space for their own industries. MACS 230 explores this situation by focusing on specific cultural industries in Canada – how they came about, how they are organized, and where they are going – and their impact on Canadian audiences.");
+        AdditionalNotes.add("MACS 110 or MACS 130 recommended");
+    }
+    public static void d110()
+    {
+        CourseID.add("MACS 235");
+        CourseName.add("Introduction to Journalism in Canada");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Journalists inform us about events and issues from around the world. But what factors determine their choice of stories to cover and the perspectives that they bring to these stories? This course takes a critical look at the role of the journalist in Canadian society.");
+        AdditionalNotes.add("This course is offered as JRNL 235 and MACS 235. Students may take only one of these for credit.");
+    }
+    public static void d111()
+    {
+        CourseID.add("MACS 240");
+        CourseName.add("Media, Money and Power");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Ideally, the media in a democratic society should play a watchdog role, keeping an eye on government and business to ensure that no abuses of power occur. In reality, media practitioners face numerous challenges in informing citizens about the actions of the rich and powerful. This course provides an introduction to the political economy of communication, a critical approach that focuses on the media’s ability to report on the power elite.\n");
+        AdditionalNotes.add("MACS 110 or 130 recommended.");
+    }
+    public static void d112()
+    {
+        CourseID.add("MACS 255");
+        CourseName.add("Introduction to Social Research");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("One of ANTH 102, SOC 101, or MACS 110");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course provides a critical introduction to sociological and social anthropological research techniques, data analysis, and questions of methodology. Among the topics considered will be the research cycle, research design, developing and measuring concepts, sampling, methods of data collection, and elementary data analysis. Considerable importance will be given to an exploration of interpretive frameworks that guide research projects, as well as questions of ethical research.");
+        AdditionalNotes.add("This course is offered as SOC 255, ANTH 255, and MACS 255. Students may take only one of these for credit.\n");
+    }
+    public static void d113()
+    {
+        CourseID.add("MACS 270");
+        CourseName.add("Dynamics of Racism in Canada");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("One of SOC 101, ANTH 102, MACS 130, or LAS 200");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course is a critical introduction to the area of race and ethnic relations within the Canadian context. In particular racism, inequality, and the social construction of racial and ethnic categories and identities will be examined. The student will develop an awareness of competing conceptual definitions and theoretical interpretations of racism, examine controversies about the extent and meaning of racism in Canada, and investigate how the process of racialization occurs within institutions such as education, the media, and the criminal justice system. Course material will draw upon a variety of historical and contemporary sources, cases, and examples, particularly those relevant to the Fraser Valley.");
+        AdditionalNotes.add("This course is offered as SOC 270, ANTH 270, and MACS 270. Students may take only one of these for credit.");
+    }
+    public static void d114()
+    {
+        CourseID.add("MACS 299");
+        CourseName.add("Special Topics in Media and Communications Studies I");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("None");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course involves an examination of a selected topic in media and communication studies that is not addressed in current course offerings. Topics covered will vary from semester to semester.");
+        AdditionalNotes.add("MACS 110 or MACS 130 recommended. | The special topic is denoted with a letter designation (e.g. MACS 299C). Students may receive credit for MACS 299 more than once as long as the letter designation differs.");
+    }
+    public static void d115()
+    {
+        CourseID.add("MACS 334");
+        CourseName.add("Cultural Policy in Canada");
+        CourseCredit.add("4 Credit");
+        CoursePrereq.add("45 university-level credits, including three credits of AH, MACS, or SOC.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Examines the essential role played by the federal government in shaping and supporting culture in Canada. Explores Ottawa’s involvement in such areas as radio and television broadcasting, Indigenous media, the fine and performing arts, and multiculturalism.");
+        AdditionalNotes.add("This course is offered as MACS 334 and SOC 334. Students may take only one of these for credit.");
+    }
+    public static void d116()
+    {
+        CourseID.add("MACS 337");
+        CourseName.add("Taste and Culture");
+        CourseCredit.add("4 Credit");
+        CoursePrereq.add("45 credits, to include at least six credits of sociology and/or MACS.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course is an interdisciplinary examination of the concept of taste. Why do we value certain cultural artifacts while we denigrate others? How do our choices reflect who we are? What is “bad taste”? What role do class and subculture play within these notions of taste? This course will investigate theories of aesthetics, identity, subcultures, and taste in such areas as art, film, music, photography, food, and advertising.\n");
+        AdditionalNotes.add("This course is offered as MACS 337 and SOC 337. Students may only take one of these for credit. Students with credit for SOC 399D cannot take this course for further credit.\n");
+    }
+    public static void d117()
+    {
+        CourseID.add("MACS 355");
+        CourseName.add("Quantitative Research Methods");
+        CourseCredit.add("4 Credit");
+        CoursePrereq.add("(One of STAT 104, STAT 106, or PSYC 110) and (ANTH 255/MACS 255/SOC 255).");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course is an examination of measurement issues within sociological and anthropological research, focusing on the logical and conceptual construction and interpretation of tables, and an examination of the uses and abuses of statistics. Students will blend classroom knowledge of statistics with real life analysis of sociological data (including the use of computer software) to develop practical research skills. The course focuses on the application, rather than the mathematics, of statistics.");
+        AdditionalNotes.add("This course is offered as SOC 355, ANTH 355, and MACS 355. Students may take only one of these for credit.");
+    }
+    public static void d118()
+    {
+        CourseID.add("MACS 356");
+        CourseName.add("Qualitative Research Methods");
+        CourseCredit.add("4 Credit");
+        CoursePrereq.add("45 credits, to include ANTH 255/MACS 255/SOC 255");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course examines methods used in the collection and analysis of sociological data including interviews, participant observations, ethnographic research, archival research, feminist and critical methodologies, and research ethics.");
+        AdditionalNotes.add("This course is offered as SOC 356, ANTH 356, and MACS 356. Students may take only one of these for credit.");
+    }
+    public static void d119()
+    {
+        CourseID.add("MACS 369");
+        CourseName.add("Media Law and Ethics");
+        CourseCredit.add("4 Credit");
+        CoursePrereq.add("45 university-level credits, including three credits of CMNS, JRNL, or MACS.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Knowledge of moral and legal issues can assist media professionals in their everyday activities. Indeed, ethical values like fairness, respect, and truthfulness can guide them in their decision-making. Moreover, familiarity with the law as it applies to copyright, defamation, and other areas can help them assess the limits of what they can do.\n");
+        AdditionalNotes.add("This course is offered as JRNL 369 and MACS 369. Students may take only one of these for credit.");
+    }
+    public static void d120()
+    {
+        CourseID.add("MACS 375");
+        CourseName.add("Indian Mediascapes");
+        CourseCredit.add("4 Credit");
+        CoursePrereq.add("One of ANTH 102, SOC 101 or MACS 110; plus 45 university-level credits including a further six credits of ANTH, SOC, MACS, or INCS. Recommended: ANTH 303 (Peoples and Cultures Of India) and FILM 220.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("In this course, students will critique how Indian society and socio-cultural issues are represented in South Asian media through their comparison with the ethnographic record. Taking an anthropology of media approach, the complexities of belonging to a diversity of regional South Asian communities are examined in both ethnographic and media interpretations. In particular, the course will consider religious, ethnic, caste, class, and gender communities, the influence of postcoloniality, and processes of modernity and diaspora.");
+        AdditionalNotes.add("This course is offered as ANTH 375 and MACS 375. Students may take only one of these for credit.");
+    }
+    public static void d121()
+    {
+        CourseID.add("MACS 385");
+        CourseName.add("Television and Social Values: The Simpsons");
+        CourseCredit.add("4 Credit");
+        CoursePrereq.add("45 credits, to include at least six credits of SOC and/or MACS");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("In well over four hundred episodes, The Simpsons TV series has explored innumerable aspects of contemporary North American life, always with humour and often with profound insight. This course uses both the series and scholarly writings based on it to explore a diversity of social and cultural issues, focusing on such areas as education, family, the media, religion and work.");
+        AdditionalNotes.add("This course is offered as SOC 385 and MACS 385. Students may take only one of these for credit.");
+    }
+    public static void d122()
+    {
+        CourseID.add("MACS 399");
+        CourseName.add("Special Topics in Media and Communication Studies II");
+        CourseCredit.add("4 Credit");
+        CoursePrereq.add("45 university-level credits, including at least three credits in MACS.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course involves an examination of a selected topic in media and communication studies that is not addressed in current course offerings. Topics covered will vary from semester to semester.");
+        AdditionalNotes.add("The special topic is denoted with a letter designation (e.g. MACS 399C). Students may take MACS 399 as many times as they wish, but will not receive credit for the same letter designation more than once.");
+    }
+    public static void d123()
+    {
+        CourseID.add("MACS 460");
+        CourseName.add("Issues in the Information Society");
+        CourseCredit.add("4 Credit");
+        CoursePrereq.add("45 credits, to include at least 9 credits of Sociology and/or MACS.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course explores the social, political, and cultural dimensions of information technology and what has come to be known as the “information society”. Students will examine technology in relationship to a variety of social issues such as the changing nature of: work, individual identity formation, social roles, democracy, privacy, and community.");
+        AdditionalNotes.add("This course is offered as MACS 460 and SOC 460. Students may take only one of these for credit.");
+    }
+    public static void d124()
+    {
+        CourseID.add("MACS 480");
+        CourseName.add("Crisis Communications");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("60 university-level credits, including six credits of lower-level and three credits of upper-level MACs and/or CMNS.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("Canadian and international examples are used to explore how to (and how not to) deal with crises and serious challenges to public safety. To do so, this course draws on both theoretical and practical approaches to communicating strategically with diverse audiences in crises.\n");
+        AdditionalNotes.add("This course is offered as CMNS 480 and MACS 480. Students may take only one of these for credit.");
+    }
+    public static void d125()
+    {
+        CourseID.add("MACS 490");
+        CourseName.add("Directed Studies in Media and Communications Studies");
+        CourseCredit.add("3 Credit");
+        CoursePrereq.add("45 university-level credits, to include six credits of MACS, and written permission of the instructor and department head.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course is designed for upper-level students who wish to examine in greater depth a particular problem/issue in Media and Communication Studies.\n");
+        AdditionalNotes.add("None");
+    }
+    public static void d126()
+    {
+        CourseID.add("MACS 492");
+        CourseName.add("Directed Studies in Social, Cultural, and Media Studies");
+        CourseCredit.add("2 Credit");
+        CoursePrereq.add("45 credits, to include 6 credits of area of specialization (ANTH, SOC, LAS, MACS). Permission to enter requires written consent of both the faculty member supervising the student and the department head.");
+        CourseCoreq.add("None");
+        CoursePreandCo.add("None");
+        CourseDetails.add("This course is designed for upper-level students who wish to examine in greater depth a particular problem/issue in Anthropology, Sociology, Latin American Studies, or Media and Communication Studies.\n");
+        AdditionalNotes.add("This course is offered as SOC 492, ANTH 492, LAS 492, and MACS 492. Students may take only one of these for credit.");
+    }
+//    Macs Finished
+    
+    /*
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+    public static void d102()
+    {
+        CourseID.add("");
+        CourseName.add("");
+        CourseCredit.add("");
+        CoursePrereq.add("");
+        CourseCoreq.add("");
+        CoursePreandCo.add("");
+        CourseDetails.add("");
+        AdditionalNotes.add("");
+    }
+
+*/
 
 }
